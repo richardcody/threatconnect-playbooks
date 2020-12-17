@@ -472,7 +472,7 @@
     }
   }, {
     "playbookLabelType" : {
-      "label" : ["CrowdStrike", "Banana"]
+      "label" : "CrowdStrike"
     }
   } ],
   "exportablePipes" : [ ]
