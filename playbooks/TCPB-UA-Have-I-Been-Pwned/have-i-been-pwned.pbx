@@ -56,8 +56,8 @@
   }, {
     "id" : 10,
     "appCatalogItem" : {
-      "programName" : "TCPB - JMESPath v1.0",
-      "displayName" : "JMES Path",
+      "programName" : "TCPB - JMESPath v2.0",
+      "displayName" : "JMESPath",
       "programVersion" : "1.0.0"
     },
     "name" : "Transform Data",
